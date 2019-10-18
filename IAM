@@ -39,3 +39,8 @@ Write Json for following scenario
 2. Create EC2 vm2
 3. Create IAM policy where user can stop and start vm1 not vm2
 
+Write Json for following scenario
+1. Create EC2 vm1
+2. Create S3 bucket
+3. Create IAM policy where user can stop and start vm1 and access S3 bucker
+
