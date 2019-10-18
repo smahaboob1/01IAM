@@ -1,1 +1,27 @@
 
+Users
+Groups
+Roles
+Policies
+
+Create user with admin access	
+    CLI access
+    Login with new users
+    No billing access
+
+Change account ID	
+Goto S3 and access some files	
+create IAM user with new admin user	
+create EC2 instance with new admin user	
+create IAM user to only restart selected EC2 instances	
+create IAM user EC2,S3 readonly access	EC2 Readonly access,S3ReadOnly Access
+Activate MFS	
+	
+create multiple IAM users with same profile - Groups	
+	
+create role and apply in EC2 instance creation	
+	
+Json policies	
+	
+aws s3 ls	
+aws ec2 describe-instance	
