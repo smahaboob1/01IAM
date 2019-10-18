@@ -25,3 +25,17 @@ Json policies
 	
 aws s3 ls	
 aws ec2 describe-instance	
+
+
+policy with EC2 deny and policy with allow for same user
+
+Write Json for following scenario
+1. Create user1
+2. Create user2
+3. Create EC2 instance where user1 can restart and user2 can not
+
+Write Json for following scenario
+1. Create EC2 vm1
+2. Create EC2 vm2
+3. Create IAM policy where user can stop and start vm1 not vm2
+
